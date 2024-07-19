@@ -1,3 +1,7 @@
+body {
+  background-color: #FEFE22;
+}
+
 # name name
 описание описание
 
